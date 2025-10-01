@@ -1,0 +1,833 @@
+fileFormatVersion: 2
+guid: 27aac0e0dae70e44097493e7be380589
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Arcade_Pang_Player_Cropped 1_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 177
+        width: 34
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a25ec6cdf93eb41488c3c83d89807134
+      internalID: -1133207995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade_Pang_Player_Cropped 1_1
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 177
+        width: 34
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf8dd55690a5f8b4d99c6ad7372e94d3
+      internalID: 1444963615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade_Pang_Player_Cropped 1_2
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 177
+        width: 34
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4540120445e259c44b75b890e0a4abcb
+      internalID: 1858190362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade_Pang_Player_Cropped 1_3
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 177
+        width: 34
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7052295990491af47b301233a2e6f0f4
+      internalID: -697154093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade_Pang_Player_Cropped 1_4
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 177
+        width: 34
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4c7edd70d2b1c646ac69365bc0a2fcb
+      internalID: -1786571933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade_Pang_Player_Cropped 1_5
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 143
+        width: 34
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eecf9354c02e20498d2a46717c5aaa8
+      internalID: -1271612935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade_Pang_Player_Cropped 1_6
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 143
+        width: 34
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb3f498b7c114f74dba11628a76771e2
+      internalID: -268870422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade_Pang_Player_Cropped 1_7
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 143
+        width: 34
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f17459de0b919847af815360635d7da
+      internalID: -262866928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade_Pang_Player_Cropped 1_8
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 143
+        width: 34
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 600cf35e716bcd24489b4053d2825d39
+      internalID: -676817888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade_Pang_Player_Cropped 1_9
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 143
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae025906a84e0904aaf42c0e847d8616
+      internalID: -521920206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade_Pang_Player_Cropped 1_10
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 109
+        width: 34
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c058011181d8fd84bbca649d82b43324
+      internalID: 624293483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade_Pang_Player_Cropped 1_11
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 109
+        width: 34
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a13cecc2b2136f74e8ddf8cdf093ccea
+      internalID: 245757856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade_Pang_Player_Cropped 1_12
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 109
+        width: 34
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba898a1f8d2fa5f41acc93c1f36be23d
+      internalID: 540094365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade_Pang_Player_Cropped 1_13
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 109
+        width: 34
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a19b8369187a784993030d9c047b02d
+      internalID: 464434368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade_Pang_Player_Cropped 1_14
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 101
+        width: 32
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 1, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21b4bb5794c9faa448de478999fe817b
+      internalID: -148341378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade_Pang_Player_Cropped 1_15
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 66
+        width: 34
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eadb8e1584fe72747834215116c130b9
+      internalID: 2094924140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade_Pang_Player_Cropped 1_16
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 66
+        width: 34
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22ca36863f3cb4143a5cb3b296600872
+      internalID: 831150071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade_Pang_Player_Cropped 1_17
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 67
+        width: 43
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1754ac5014e614647be784f3ab4692fa
+      internalID: -1902249595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade_Pang_Player_Cropped 1_18
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 75
+        width: 34
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a10d5423c2c67c247bd305a1179b16ea
+      internalID: -771027092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade_Pang_Player_Cropped 1_19
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 66
+        width: 43
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c040a7fb8a47d1428cb9e31420daac3
+      internalID: -1818415248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade_Pang_Player_Cropped 1_20
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 41
+        width: 34
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8cee806987c3fe4181a77d6b15bb337
+      internalID: -1234879925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade_Pang_Player_Cropped 1_21
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 41
+        width: 34
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47a04b8134a346b42b91b691f4d7495b
+      internalID: -924688262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade_Pang_Player_Cropped 1_22
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 41
+        width: 34
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7029d03281346c048bdbc1075e14414f
+      internalID: -1116992458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade_Pang_Player_Cropped 1_23
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 41
+        width: 34
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 173d7e629d2b3c74a9155ed78d518e49
+      internalID: 818113646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade_Pang_Player_Cropped 1_24
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 41
+        width: 34
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59093ce5d63f06f468dc3e92e58f44fa
+      internalID: -1860164068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade_Pang_Player_Cropped 1_25
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 7
+        width: 34
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a51c2d49dff3ef04b98bcb394d67dade
+      internalID: -1174141300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade_Pang_Player_Cropped 1_26
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 7
+        width: 34
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b589c266551f9f4da2c410cf991a232
+      internalID: -259722387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade_Pang_Player_Cropped 1_27
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 7
+        width: 34
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c0dbd6fe0dbd2349aad5296c1c4aecb
+      internalID: 1344338183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade_Pang_Player_Cropped 1_28
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 7
+        width: 34
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf5a31742cf40a34e8d51870783404e3
+      internalID: -730933921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade_Pang_Player_Cropped 1_29
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 7
+        width: 34
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e189ba331d6c0444bfaa3d3372ca327
+      internalID: 1016624981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 8e4581de9589af7469d0d0d3192a65f8
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Arcade_Pang_Player_Cropped 1_0: -1133207995
+      Arcade_Pang_Player_Cropped 1_1: 1444963615
+      Arcade_Pang_Player_Cropped 1_10: 624293483
+      Arcade_Pang_Player_Cropped 1_11: 245757856
+      Arcade_Pang_Player_Cropped 1_12: 540094365
+      Arcade_Pang_Player_Cropped 1_13: 464434368
+      Arcade_Pang_Player_Cropped 1_14: -148341378
+      Arcade_Pang_Player_Cropped 1_15: 2094924140
+      Arcade_Pang_Player_Cropped 1_16: 831150071
+      Arcade_Pang_Player_Cropped 1_17: -1902249595
+      Arcade_Pang_Player_Cropped 1_18: -771027092
+      Arcade_Pang_Player_Cropped 1_19: -1818415248
+      Arcade_Pang_Player_Cropped 1_2: 1858190362
+      Arcade_Pang_Player_Cropped 1_20: -1234879925
+      Arcade_Pang_Player_Cropped 1_21: -924688262
+      Arcade_Pang_Player_Cropped 1_22: -1116992458
+      Arcade_Pang_Player_Cropped 1_23: 818113646
+      Arcade_Pang_Player_Cropped 1_24: -1860164068
+      Arcade_Pang_Player_Cropped 1_25: -1174141300
+      Arcade_Pang_Player_Cropped 1_26: -259722387
+      Arcade_Pang_Player_Cropped 1_27: 1344338183
+      Arcade_Pang_Player_Cropped 1_28: -730933921
+      Arcade_Pang_Player_Cropped 1_29: 1016624981
+      Arcade_Pang_Player_Cropped 1_3: -697154093
+      Arcade_Pang_Player_Cropped 1_4: -1786571933
+      Arcade_Pang_Player_Cropped 1_5: -1271612935
+      Arcade_Pang_Player_Cropped 1_6: -268870422
+      Arcade_Pang_Player_Cropped 1_7: -262866928
+      Arcade_Pang_Player_Cropped 1_8: -676817888
+      Arcade_Pang_Player_Cropped 1_9: -521920206
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1960 @@
+fileFormatVersion: 2
+guid: 634cf82d7b89ed048bb4b64d23844490
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Arcade - Super Pang - Balloons (1)_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 126
+        width: 64
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 329ded90d8c29be4ebf41684b1f8638b
+      internalID: 613530327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Super Pang - Balloons (1)_1
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 133
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de67466030adda24b9ad257a538abad3
+      internalID: -51051408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Super Pang - Balloons (1)_2
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 140
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16e4a46d00aa0a448821bdb7c87559e9
+      internalID: -1995874687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Super Pang - Balloons (1)_3
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 146
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4679a34a6f1b8ff4f887786e9f34a965
+      internalID: 570301192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Super Pang - Balloons (1)_4
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 149
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb002e1255186fa44ab93148e7a5c760
+      internalID: -908275920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Super Pang - Balloons (1)_5
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 127
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd0ce5c97ddce4e4db8c6c41e8c5f0b0
+      internalID: -988564741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Super Pang - Balloons (1)_6
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 142
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca5198a91300c034198bb01272fa220e
+      internalID: -741159681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Super Pang - Balloons (1)_7
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 149
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9df627055e0a5b84bbab7c6876bc089e
+      internalID: 803012984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Super Pang - Balloons (1)_8
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 155
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4deb54e3722ed304094914af82bf2e76
+      internalID: -1272854269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Super Pang - Balloons (1)_9
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 140
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6d511bae4b3c30488ee289b61abfbb8
+      internalID: 286756774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Super Pang - Balloons (1)_10
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 138
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 296375331530b1744b64b90289e6edeb
+      internalID: 1384128599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Super Pang - Balloons (1)_11
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 138
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 032036379b7b09e4a9f9ffa48fc8cdc6
+      internalID: -1278506725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Super Pang - Balloons (1)_12
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 141
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ee52f7e65434f94981d93dc9ae2d0bc
+      internalID: -1451288535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Super Pang - Balloons (1)_13
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 138
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99eff882acec089458183bd3df741801
+      internalID: -2048323469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Super Pang - Balloons (1)_14
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 139
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7feb5a8fcd20ef747b697e21a81091bd
+      internalID: -1578165594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Super Pang - Balloons (1)_15
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 131
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8fa5db4021f77542a3ca9ff78dad814
+      internalID: -1076680602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Super Pang - Balloons (1)_16
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 134
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c9411ad7d1102a489fc06738acf7629
+      internalID: -1838489007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Super Pang - Balloons (1)_17
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 101
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac13c4a6b71d09544893c2104f3901f8
+      internalID: -674009831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Super Pang - Balloons (1)_18
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 108
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 799a8b11106a4ff41a2ff75215ecea87
+      internalID: -1906302602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Super Pang - Balloons (1)_19
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 123
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78752852c6c8b2c459b3e8fd4ad84e47
+      internalID: -1946045470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Super Pang - Balloons (1)_20
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 122
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 597deead5b12dc14a96c39a9549731d9
+      internalID: 437735219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Super Pang - Balloons (1)_21
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 122
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3026f4ab9930e14408b66a8b896c5ee4
+      internalID: 863858166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Super Pang - Balloons (1)_22
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 72
+        width: 64
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c3658f3e16efbf4f95a028dd0de0435
+      internalID: -676054383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Super Pang - Balloons (1)_23
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 79
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef2b57625d77d7f46888c880bd06d8fc
+      internalID: 1383051014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Super Pang - Balloons (1)_24
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 86
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbd1ccbef4390ec43920a25a9ace2f69
+      internalID: 101805434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Super Pang - Balloons (1)_25
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 92
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ed523c938ed9c647ba281da4ea44d48
+      internalID: -315426180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Super Pang - Balloons (1)_26
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 86
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6f4773145d2f224d8891e6a8ad34990
+      internalID: 765321058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Super Pang - Balloons (1)_27
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 114
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e09c5af53f759141a5b2398c9af8a14
+      internalID: -1124102275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Super Pang - Balloons (1)_28
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 117
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7038dfb1cc636804990f40c735246f4b
+      internalID: -492813863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Super Pang - Balloons (1)_29
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 88
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a97e7d308292994c83ce997c4a74fbd
+      internalID: 176484699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Super Pang - Balloons (1)_30
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 112
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 008c62984ffa4294dab25952e1bddf7c
+      internalID: 1331414699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Super Pang - Balloons (1)_31
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 85
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31b505743415a47439a9e83a8be2df66
+      internalID: -1342336269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Super Pang - Balloons (1)_32
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 113
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df104e5d5d7acd043b6ccc7c4e4486ed
+      internalID: -101370745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Super Pang - Balloons (1)_33
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 114
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dbe819c60be2f944ad0fe421da32bf7
+      internalID: 1011171438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Super Pang - Balloons (1)_34
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 85
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4bfecbe1ee36a5478691e9c7cda3557
+      internalID: -1801566748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Super Pang - Balloons (1)_35
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 119
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54ee1b7689986df4d9819e06ea519c86
+      internalID: -757226922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Super Pang - Balloons (1)_36
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 108
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d43fef4f0fd91e541b109286fb2a7f0d
+      internalID: 824343003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Super Pang - Balloons (1)_37
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 119
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3e1657010786574daba09e85443dc08
+      internalID: 2018633847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Super Pang - Balloons (1)_38
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 109
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac80ddd0571e54e41985937382947f29
+      internalID: 455176762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Super Pang - Balloons (1)_39
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 110
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 994c218568ec8194daa4a717267e4847
+      internalID: -2121220320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Super Pang - Balloons (1)_40
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 119
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab377ed0604004e4ebe6c8ade3c0c09e
+      internalID: -61828180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Super Pang - Balloons (1)_41
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 105
+        width: 47
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fcdbc4fc3d35af45a0644b47a6e2ad6
+      internalID: -300604990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Super Pang - Balloons (1)_42
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 107
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c654354a3cca3c04e8dba85193c99851
+      internalID: -917664224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Super Pang - Balloons (1)_43
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 107
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f71481b1cfda8c4aaadad7a9eb46e52
+      internalID: -546639667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Super Pang - Balloons (1)_44
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 95
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e38261635518734f9f10e63d662cfd4
+      internalID: -2076308238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Super Pang - Balloons (1)_45
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 70
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6ec422839faf274db26bf84c4b7f587
+      internalID: 1464615791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Super Pang - Balloons (1)_46
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 50
+        width: 64
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d1db5807bf943f45be8fbc7918e6e28
+      internalID: 1289755590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Super Pang - Balloons (1)_47
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 73
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f279d91fce9a2149bb48881de81af2b
+      internalID: 1358002805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Super Pang - Balloons (1)_48
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 59
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc3268f9332ede94fafbad44ffbfe6cb
+      internalID: -114443037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Super Pang - Balloons (1)_49
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 59
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfda3bf4903658842830ddf612830014
+      internalID: -913651667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Super Pang - Balloons (1)_50
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 77
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 128bf4c80203b8b4eb988c136bb1e5b1
+      internalID: -152393827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Super Pang - Balloons (1)_51
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 80
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: babd626cd23e93b4e81df4c887a7680a
+      internalID: 564033276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Super Pang - Balloons (1)_52
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 71
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2457f18af51f6349adc096fb6197933
+      internalID: 1038810768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Super Pang - Balloons (1)_53
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 71
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fc146f0db6fe7e4687e0f24543c1ac4
+      internalID: 637167755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Super Pang - Balloons (1)_54
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 71
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bab87f8c6b7941e4fb25b301e3496bdf
+      internalID: -462952052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Super Pang - Balloons (1)_55
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 5
+        width: 64
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62838292b95c8184a80ae3887b1ea518
+      internalID: -1796610936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Super Pang - Balloons (1)_56
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 25
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f424448c1412e94797e267a0fecca01
+      internalID: -86541601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Super Pang - Balloons (1)_57
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 43
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ef625ceca4d99849b899a4e98442cc8
+      internalID: -441612691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Super Pang - Balloons (1)_58
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 50
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60c7fdcca676c4d408fef84ceba032aa
+      internalID: -494284038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Super Pang - Balloons (1)_59
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 60
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ce75d3ee7a5dad4a86398ac8145e1d4
+      internalID: 193603097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Super Pang - Balloons (1)_60
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 61
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42496523e78a854428e489d5eb5da21c
+      internalID: -842959842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Super Pang - Balloons (1)_61
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 62
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7baada7a595a30a4fb27d0ca201787a9
+      internalID: 1107610535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Super Pang - Balloons (1)_62
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 32
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d09393883983b54ca74ccb9c668e1af
+      internalID: -260538762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Super Pang - Balloons (1)_63
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 32
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2014d8f32e2ff3f4ebd5fd154459cc16
+      internalID: -1635884886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Super Pang - Balloons (1)_64
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 32
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a0a06eb694f9bc4bb9626d8aa71e15f
+      internalID: -141502741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Super Pang - Balloons (1)_65
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 53
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e01ef73200ff8ca40968b38a8bcd43de
+      internalID: 865739374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Super Pang - Balloons (1)_66
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 38
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47089ea459963d84b9a55722e62b92d1
+      internalID: 334844416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Super Pang - Balloons (1)_67
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 41
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b25746ea096a6fa45b8b3733525d7372
+      internalID: 145038955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Super Pang - Balloons (1)_68
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 16
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5444616783a95e042884b1cf08f3f720
+      internalID: 1979645115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Super Pang - Balloons (1)_69
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 12
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa69261737d32d14a9b338aa98fa9f48
+      internalID: 1093502539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Super Pang - Balloons (1)_70
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 12
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 855f4762ee01f8a4986881c503ece415
+      internalID: 1198484635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Super Pang - Balloons (1)_71
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 12
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbe0d1f6666d8804ea2c0bdba6d2f63f
+      internalID: 1753003446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Super Pang - Balloons (1)_72
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 19
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a6156af9972b8b468ab2e23545053f3
+      internalID: 26567679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Super Pang - Balloons (1)_73
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 23
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39b2594f9c1f7a24692952235e6481c1
+      internalID: 748668693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Super Pang - Balloons (1)_74
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 26
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da4b0f7d98455d7459e6285044a3b6f5
+      internalID: -1815674731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Super Pang - Balloons (1)_75
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 25
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b071a4c0ae91274e8120b1d1b53c4e0
+      internalID: -1138067066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Super Pang - Balloons (1)_76
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 5
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fd46d0b3ed395140ace9fa6168d3bf0
+      internalID: -155510832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Super Pang - Balloons (1)_77
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 7
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e169492326b025f40ad01895027f913a
+      internalID: 529660548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Super Pang - Balloons (1)_78
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 7
+        width: 44
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d014bc8c5677c2e4b9517e811f0d83ff
+      internalID: -372216598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: d80df797d896454408cd19d9c9429e02
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Arcade - Super Pang - Balloons (1)_0: 613530327
+      Arcade - Super Pang - Balloons (1)_1: -51051408
+      Arcade - Super Pang - Balloons (1)_10: 1384128599
+      Arcade - Super Pang - Balloons (1)_11: -1278506725
+      Arcade - Super Pang - Balloons (1)_12: -1451288535
+      Arcade - Super Pang - Balloons (1)_13: -2048323469
+      Arcade - Super Pang - Balloons (1)_14: -1578165594
+      Arcade - Super Pang - Balloons (1)_15: -1076680602
+      Arcade - Super Pang - Balloons (1)_16: -1838489007
+      Arcade - Super Pang - Balloons (1)_17: -674009831
+      Arcade - Super Pang - Balloons (1)_18: -1906302602
+      Arcade - Super Pang - Balloons (1)_19: -1946045470
+      Arcade - Super Pang - Balloons (1)_2: -1995874687
+      Arcade - Super Pang - Balloons (1)_20: 437735219
+      Arcade - Super Pang - Balloons (1)_21: 863858166
+      Arcade - Super Pang - Balloons (1)_22: -676054383
+      Arcade - Super Pang - Balloons (1)_23: 1383051014
+      Arcade - Super Pang - Balloons (1)_24: 101805434
+      Arcade - Super Pang - Balloons (1)_25: -315426180
+      Arcade - Super Pang - Balloons (1)_26: 765321058
+      Arcade - Super Pang - Balloons (1)_27: -1124102275
+      Arcade - Super Pang - Balloons (1)_28: -492813863
+      Arcade - Super Pang - Balloons (1)_29: 176484699
+      Arcade - Super Pang - Balloons (1)_3: 570301192
+      Arcade - Super Pang - Balloons (1)_30: 1331414699
+      Arcade - Super Pang - Balloons (1)_31: -1342336269
+      Arcade - Super Pang - Balloons (1)_32: -101370745
+      Arcade - Super Pang - Balloons (1)_33: 1011171438
+      Arcade - Super Pang - Balloons (1)_34: -1801566748
+      Arcade - Super Pang - Balloons (1)_35: -757226922
+      Arcade - Super Pang - Balloons (1)_36: 824343003
+      Arcade - Super Pang - Balloons (1)_37: 2018633847
+      Arcade - Super Pang - Balloons (1)_38: 455176762
+      Arcade - Super Pang - Balloons (1)_39: -2121220320
+      Arcade - Super Pang - Balloons (1)_4: -908275920
+      Arcade - Super Pang - Balloons (1)_40: -61828180
+      Arcade - Super Pang - Balloons (1)_41: -300604990
+      Arcade - Super Pang - Balloons (1)_42: -917664224
+      Arcade - Super Pang - Balloons (1)_43: -546639667
+      Arcade - Super Pang - Balloons (1)_44: -2076308238
+      Arcade - Super Pang - Balloons (1)_45: 1464615791
+      Arcade - Super Pang - Balloons (1)_46: 1289755590
+      Arcade - Super Pang - Balloons (1)_47: 1358002805
+      Arcade - Super Pang - Balloons (1)_48: -114443037
+      Arcade - Super Pang - Balloons (1)_49: -913651667
+      Arcade - Super Pang - Balloons (1)_5: -988564741
+      Arcade - Super Pang - Balloons (1)_50: -152393827
+      Arcade - Super Pang - Balloons (1)_51: 564033276
+      Arcade - Super Pang - Balloons (1)_52: 1038810768
+      Arcade - Super Pang - Balloons (1)_53: 637167755
+      Arcade - Super Pang - Balloons (1)_54: -462952052
+      Arcade - Super Pang - Balloons (1)_55: -1796610936
+      Arcade - Super Pang - Balloons (1)_56: -86541601
+      Arcade - Super Pang - Balloons (1)_57: -441612691
+      Arcade - Super Pang - Balloons (1)_58: -494284038
+      Arcade - Super Pang - Balloons (1)_59: 193603097
+      Arcade - Super Pang - Balloons (1)_6: -741159681
+      Arcade - Super Pang - Balloons (1)_60: -842959842
+      Arcade - Super Pang - Balloons (1)_61: 1107610535
+      Arcade - Super Pang - Balloons (1)_62: -260538762
+      Arcade - Super Pang - Balloons (1)_63: -1635884886
+      Arcade - Super Pang - Balloons (1)_64: -141502741
+      Arcade - Super Pang - Balloons (1)_65: 865739374
+      Arcade - Super Pang - Balloons (1)_66: 334844416
+      Arcade - Super Pang - Balloons (1)_67: 145038955
+      Arcade - Super Pang - Balloons (1)_68: 1979645115
+      Arcade - Super Pang - Balloons (1)_69: 1093502539
+      Arcade - Super Pang - Balloons (1)_7: 803012984
+      Arcade - Super Pang - Balloons (1)_70: 1198484635
+      Arcade - Super Pang - Balloons (1)_71: 1753003446
+      Arcade - Super Pang - Balloons (1)_72: 26567679
+      Arcade - Super Pang - Balloons (1)_73: 748668693
+      Arcade - Super Pang - Balloons (1)_74: -1815674731
+      Arcade - Super Pang - Balloons (1)_75: -1138067066
+      Arcade - Super Pang - Balloons (1)_76: -155510832
+      Arcade - Super Pang - Balloons (1)_77: 529660548
+      Arcade - Super Pang - Balloons (1)_78: -372216598
+      Arcade - Super Pang - Balloons (1)_8: -1272854269
+      Arcade - Super Pang - Balloons (1)_9: 286756774
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
