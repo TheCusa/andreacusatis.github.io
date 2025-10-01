@@ -1,8 +1,8 @@
-\# Pang Mobile — Unity
+# Pang Mobile — Unity
 
 
 
-\*\*Pang Mobile\*\* is a mobile version of the well-known classic arcade game \*\*Pang!\*\*, built with \*\*Unity Engine\*\*. The game brings the iconic bubble-bursting action to mobile devices with intuitive touch controls and smooth animations.
+**Pang Mobile** is a mobile version of the well-known classic arcade game **Pang!**, built with **Unity Engine**. The game brings the iconic bubble-bursting action to mobile devices with intuitive touch controls and smooth animations.
 
 
 
@@ -14,25 +14,11 @@ The project is currently under development, with core gameplay already implement
 
 
 
-\## Description
+## Description
 
 
 
-In \*\*Pang Mobile\*\*, the player controls a character who must pop bouncing balls using projectiles. Each time a large ball is hit, it splits into smaller ones until it disappears. The goal is to clear all balls on the screen without getting hit.
-
-
-
----
-
-
-
-\## Game Engine
-
-
-
-\* \*\*Engine:\*\* Unity 2021+ (compatible with Android and iOS)
-
-\* \*\*Physics:\*\* Built-in Unity 2D physics for ball movement and collision
+In Pang Mobile, the player controls a character who must pop bouncing balls using projectiles. Each time a large ball is hit, it splits into smaller ones until it disappears. The goal is to clear all balls on the screen without getting hit.
 
 
 
@@ -40,19 +26,13 @@ In \*\*Pang Mobile\*\*, the player controls a character who must pop bouncing ba
 
 
 
-\## Current Features
+## Game Engine
 
 
 
-\* Character movement and firing controls optimized for mobile touchscreens
+**Engine:** Unity 6 (compatible with Android)
 
-\* Core win and lose conditions
-
-\* Ball physics: movement, bouncing, and splitting into smaller balls when hit
-
-\* Character and ball animations for smoother gameplay
-
-\* Basic UI for  lives and restart
+**Physics:** Built-in Unity physics for ball movement and collision
 
 
 
@@ -60,15 +40,19 @@ In \*\*Pang Mobile\*\*, the player controls a character who must pop bouncing ba
 
 
 
-\## Controls
+## Current Features
 
 
 
-\* \*\*Touchscreen:\*\*
+- Character movement and firing controls optimized for mobile touchscreens
 
+- Core win and lose conditions
 
+- Ball physics: movement, bouncing, and splitting into smaller balls when hit
 
-On-screen arrows for movement and a separate fire button
+- Character and ball animations for smoother gameplay
+
+- Basic UI for  lives and restart
 
 
 
@@ -76,15 +60,27 @@ On-screen arrows for movement and a separate fire button
 
 
 
-\## Requirements
+## Controls
 
 
 
-\* \*\*Unity Version:\*\* 2021.3 LTS or newer
+**Touchscreen:** On-screen arrows for movement and a separate fire button
 
-\* \*\*Platform:\*\* Android (can also run in the Unity Editor for testing)
 
-\* \*\*Input:\*\* Touch controls required
+
+---
+
+
+
+## Requirements
+
+
+
+**Unity Version:** Unity 6
+
+**Platform:** Android (can also run in the Unity Editor for testing)
+
+**Input:** Touch controls required
 
 
 
