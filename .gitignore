@@ -1,0 +1,207 @@
+#############################################
+#       COMMON / OS / IDE
+#############################################
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Linux
+*~
+*.swp
+.swo
+..sw?
+.directory
+
+# IDEs (Visual Studio, Rider, VSCode, Consulo, etc.)
+.vs/
+.idea/
+*.DotSettings.user
+.gradle/
+.consulo/
+.vscode/
+
+# User-specific or auto-generated editor files
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.VC.opendb
+
+# General logs and temp files
+*.log
+*.tmp
+mono_crash.*
+
+# Archives and packages
+*.zip
+*.tar
+*.gz
+*.7z
+*.rar
+
+
+#############################################
+#       COMPILATION / BINARIES
+#############################################
+
+# Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled headers
+*.gch
+*.pch
+
+# Dynamic and static libraries
+*.so
+*.dylib
+*.dll
+*.lib
+*.a
+*.lai
+*.la
+
+# Executables
+*.exe
+*.out
+*.app
+*.ipa
+*.apk
+*.aab
+*.unitypackage
+*.unitypackage.meta
+
+
+#############################################
+#       UNREAL ENGINE
+#############################################
+
+# Project/IDE generated files
+*.xcodeproj
+*.xcworkspace
+*.sln
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+
+# Engine-generated binaries
+Binaries/*
+Plugins/*/Binaries/*
+
+# Build artifacts
+Build/*
+# Allow PakBlacklist files
+!Build/*/
+Build/*/**
+!Build/*/PakBlacklist*.txt
+# Do not ignore icon files in Build
+!Build/**/*.ico
+
+# Mobile-specific patch exceptions
+!Build/IOS/Resources/
+Build/IOS/Resources/*
+!Build/IOS/Resources/Graphics/
+Build/IOS/Resources/Graphics/*
+!Build/IOS/Resources/Graphics/*.png
+!Build/Android/res/
+Build/Android/res/*
+!Build/Android/res/*/
+Build/Android/res/*/*
+!Build/Android/res/*/*.png
+
+# Precompiled assets
+SourceArt/**/*.png
+SourceArt/**/*.tga
+*_BuiltData.uasset
+
+# Editor data folders
+Saved/*
+Intermediate/*
+Plugins/*/Intermediate/*
+DerivedDataCache/*
+
+# Remove unused starter or developer content
+Content/StarterContent/
+Content/Developers/
+
+# Ignore plugin binaries in deeper subfolders
+Plugins/**/Binaries/*
+Plugins/**/Intermediate/*
+
+
+#############################################
+#       UNITY
+#############################################
+
+# Unity auto-generated folders
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+ExportedObj/
+ServerData
+
+# JetBrains Rider auto-generated plugin
+/[Aa]ssets/Plugins/Editor/JetBrains*
+
+# Auto-generated test scenes
+/[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
+InitTestScene*.unity*
+
+# Addressables build data
+/[Aa]ssets/StreamingAssets/aa*
+/[Aa]ssets/AddressableAssetsData/link.xml*
+/[Aa]ssets/Addressables_Temp*
+/[Aa]ssets/AddressableAssetsData/*/*.bin*
+
+# Visual Scripting auto-generated data
+/[Aa]ssets/Unity.VisualScripting.Generated/VisualScripting.Flow/UnitOptions.db
+/[Aa]ssets/Unity.VisualScripting.Generated/VisualScripting.Flow/UnitOptions.db.meta
+/[Aa]ssets/Unity.VisualScripting.Generated/VisualScripting.Core/Property Providers
+/[Aa]ssets/Unity.VisualScripting.Generated/VisualScripting.Core/Property Providers.meta
+
+# Unity-generated meta files
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+
+# Crash report files
+sysinfo.txt
+
+# Asset Store Tools (optional)
+# /[Aa]ssets/AssetStoreTools*
+
+
+#############################################
+#       MISC / BACKUP
+#############################################
+
+# Backup and obsolete files
+*.bak
+*.old
+*.orig
+
+# Build properties
+crashlytics-build.properties
