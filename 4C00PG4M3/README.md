@@ -1,19 +1,44 @@
-# 4C00PG4M3
 
 
 
-## Clone the Repository
+# 4C00PG4M3 — Unreal Engine
 
-after cloning the repo, to set up the submodules
-```
-git submodule update --init
-```
-then, inside Unreal Editor
- - revision control
- - Connect to Revision Control
- - Provider: GitLFS2
- - Check **UsesGitLFS** _your-gitlab-username_
+**4C00PG4M3** is a cooperative, puzzle-based game built with **Unreal Engine**. Designed for local network play (LAN co-op), it supports two players on different machines connected over the same network. The gameplay focuses on teamwork, communication, and replayability. This project is currently under development and represents the first group project created by a team of 5 developers working together to design, code, and test the game.
 
-### Building
+---
 
- - Use MSVC 14.38
+## Description
+
+Players collaborate over a local network to solve puzzles that require timing, coordination, and creative problem-solving. 
+
+---
+
+## Game Engine
+
+* **Engine:** Unreal Engine 5 (compatible with Unreal Engine 4.27+)
+* **Blueprints & C++:** Core gameplay implemented with C++
+---
+
+## Key Features
+
+* LAN co-op support: multiple players connected over the same local network
+* Three  puzzles included; all puzzles are replayable 
+* Mix of interactive elements: switches, moving platforms
+* Clear UI prompts 
+---
+
+## Documentation
+
+For full documentation, technical details, and design notes, visit the Notion workspace:
+
+👉 [Insert Notion Link Here]
+
+---
+
+
+
+## Future Improvements
+
+* Add more puzzle modules and increase the variety of mechanics
+* Improve LAN stability and latency handling
+* Refined difficulty curves
