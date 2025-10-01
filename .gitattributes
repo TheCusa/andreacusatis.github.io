@@ -93,9 +93,11 @@
 #       UNREAL ENGINE
 #############################################
 
-# Unreal Engine assets (lock to avoid merge conflicts)
-**/*.uasset lock
-**/*.umap lock
+# Track Unreal Engine assets with LFS
+**/*.uasset filter=lfs diff=lfs merge=lfs -text
+**/*.umap   filter=lfs diff=lfs merge=lfs -text
+
+
 
 # Localization files
 **/*.locres filter=lfs diff=lfs merge=lfs -text
